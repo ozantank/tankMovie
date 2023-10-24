@@ -7,4 +7,4 @@
 
 ### Links
 
-- Live Site URL: [https://ozantank.github.io/nft-preview/](https://ozantank.github.io/nft-preview/)
+- Live Site URL: [https://tankmovie.netlify.app/](https://tankmovie.netlify.app/)
